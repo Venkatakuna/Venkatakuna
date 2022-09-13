@@ -29,7 +29,14 @@ I am Senior Software Architect with 18years of experience from India
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/venkatakk/)
 
 
+---
 
+### 👨‍🎓: Acadamics and Certifications:
+
+<div>
+   <img src="dlrdegree.svg" title="DLR Degree college"  alt="Gatsby" width="40" height="40"/>&nbsp;
+   Bachlor of Computer Applications
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
